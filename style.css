@@ -1,0 +1,21 @@
+/* common css  */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.left-s-t{
+font-size: 24px;
+font-weight: 700;
+}
+.right-s-h{
+font-size: 20px;
+font-weight: 900;
+}
+.right-s-t{
+font-size: 15px;
+font-weight: 700;
+}
+.right-s-d{
+font-size: 13px;
+font-weight: 400;
+}
