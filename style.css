@@ -13,6 +13,28 @@ body{
     padding: 15px;
     border-radius: 50px;
 }
+.icon{
+    font-size: 20px;
+    font-weight: 700;
+    color: #1DA1F2;padding: 10px;
+    
+}
+.icon:hover{
+    border-radius: 50px; 
+    background-color: rgba(232, 245, 254);
+    padding: 10px;
+}
+.iconr{
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px;
+    
+}
+.iconr:hover{
+    border-radius: 50px; 
+    background-color: rgba(232, 245, 254);
+    padding: 10px;
+}
 
 .left-s-t{
 font-size: 20px;
@@ -115,6 +137,22 @@ background-color: #EFF1F1;
 }
 
 
+/* middle section  */
+.post{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.area{
+    margin-top:15px;
+   height: 20px;
+   border: none;
+   outline: none;
+   
+}
+.area:focus{
+   border-bottom: 1px solid gray;
+   
+}
 @media only screen and (max-width:1024px) {
     main{
         display: grid;
