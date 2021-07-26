@@ -172,7 +172,7 @@ background-color: #EFF1F1;
 @media only screen and (max-width:1024px) {
     main{
         display: grid;
-        grid-template-columns:repeat(1,1fr);
+        grid-template-columns:100%;
 
     } 
     .left , .right{
