@@ -2,6 +2,9 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+.mobile-header{
+    display: none;
+}
 .fa-twitter{
     color: #1da1f2;
     font-size: 25px;
