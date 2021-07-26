@@ -24,6 +24,22 @@ body{
     background-color: rgba(232, 245, 254);
     padding: 10px;
 }
+.iconm{
+    font-size: 15px;
+    padding: 10px;
+    
+}
+.iconm:hover{
+    font-size: 15px;
+    border-radius: 50px; 
+    background-color: rgba(232, 245, 254);
+    padding: 10px;
+    
+    
+}
+.tweets:hover{
+background-color:#F7F7F7;
+}
 .iconr{
     font-size: 15px;
     font-weight: 700;
@@ -159,5 +175,8 @@ background-color: #EFF1F1;
         grid-template-columns:repeat(1,1fr);
 
     } 
-    
+    .left , .right{
+        display: none;
+    }
+  
 }
